@@ -1,7 +1,7 @@
 # smart-cane
 A smart cane that tracks recovery progress by measuring force exerted over time.
 
-![Smsrt Cane](./images/IMG_7320.jpeg)
+![Smart Cane](./photos/IMG_7320.jpeg)
 
 Smart Cane Project
 
