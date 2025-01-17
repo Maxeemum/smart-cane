@@ -21,7 +21,8 @@ At this point my recovery progressed to the point where I could walk fine on my 
 
 Future Development
 Planned improvements for the next iteration include:
-Memory Storage: Incorporating a module to save recovery data over time.
-Enhanced Design: Developing a more ergonomic and durable cane.
-Bluetooth Connectivity: Adding wireless functionality to sync data with a companion app, enabling visualization of recovery progress and additional metrics like heart rate.
-Monetization: Offering a subscription-based app with advanced analytics and tracking features for users.
+- **Memory Storage**: Incorporating a module to save recovery data over time.
+- **Enhanced Design**: Developing a more ergonomic and durable cane.
+- **Bluetooth Connectivity**: Adding wireless functionality to sync data with a companion app, enabling visualization of recovery progress and additional metrics like heart rate.
+- **Monetization**: Offering a subscription-based app with advanced analytics and tracking features for users.
+
