@@ -5,7 +5,7 @@ A smart cane that tracks recovery progress by measuring force exerted over time.
 
 **Smart Cane Project**
 
-In the summer of 2024, during recovery from ACL reconstruction surgery, the idea emerged to create a tool that could assist others facing similar challenges. A smart cane thqt helps users monitor their recovery by tracking the force they apply while using it. As recovery progresses, users should exert less force on the cane, indicating improved strength and mobility. This real-time feedback provides valuable insight, helping individuals stay motivated and on track with their recovery goals.
+In the summer of 2024, during recovery from ACL reconstruction surgery, the idea emerged to create a tool that could assist others facing similar challenges. A smart cane that helps users monitor their recovery by tracking the force they apply while using it. As recovery progresses, users should exert less force on the cane, indicating improved strength and mobility. This real-time feedback provides valuable insight, helping individuals stay motivated and on track with their recovery goals.
 
 **Design and Prototyping**
 
