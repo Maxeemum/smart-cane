@@ -19,7 +19,7 @@ At this point my recovery progressed to the point where I could walk fine on my 
 
 ![Smart Cane](./photos/recoveryplot.png)
 
-**Future Development**
+**Future Development** <br>
 Planned improvements for the next iteration include:
 - **Memory Storage**: Incorporating a module to save recovery data over time.
 - **Enhanced Design**: Developing a more ergonomic and durable cane.
