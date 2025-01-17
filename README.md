@@ -5,12 +5,12 @@ A smart cane that tracks recovery progress by measuring force exerted over time.
 
 **Smart Cane Project**
 
-In the summer of 2024, during recovery from ACL reconstruction surgery, the idea emerged to create a tool that could assist others facing similar challenges. A smart cane that measures the force exerted over time, enabling users to track their recovery progress.
+In the summer of 2024, during recovery from ACL reconstruction surgery, the idea emerged to create a tool that could assist others facing similar challenges. A smart cane thqt helps users monitor their recovery by tracking the force they apply while using it. As recovery progresses, users should exert less force on the cane, indicating improved strength and mobility. This real-time feedback provides valuable insight, helping individuals stay motivated and on track with their recovery goals.
 
 **Design and Prototyping**
 
-With prior experience using Arduino, research focused on methods to measure force, leading to the discovery of load cells—devices that convert mechanical strain into electrical signals. A wooden prototype was constructed, incorporating load cells into the handle. Initial designs encountered challenges in attaching the load cells securely while maintaining their functionality.
-Elastic bands were used to hold the load cells in place, enabling accurate stress measurement. The [HX711](https://github.com/RobTillaart/HX711) repository was integrated to process data from the load cells, with system initialization taring the scale to account for the elastic bands' force.
+Drawing from prior experience with Arduino, I was able to identify the right approach for measuring force, which led to the discovery of load cells—devices that convert mechanical strain into electrical signals. A wooden prototype was constructed, incorporating load cells into the handle. Initial designs encountered challenges in attaching the load cells securely while maintaining their functionality.
+Elastic bands were used to hold the load cells in place, enabling accurate stress measurement. The [HX711](https://github.com/RobTillaart/HX711) repository was used to process data from the load cells, and zero the scale to account for the elastic bands' force.
 
 **Electronics and Integration**
 
