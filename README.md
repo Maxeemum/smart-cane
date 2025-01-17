@@ -10,7 +10,7 @@ In the summer of 2024, during recovery from ACL reconstruction surgery, the idea
 Design and Prototyping
 
 With prior experience using Arduino, research focused on methods to measure force, leading to the discovery of load cells—devices that convert mechanical strain into electrical signals. A wooden prototype was constructed, incorporating load cells into the handle. Initial designs encountered challenges in attaching the load cells securely while maintaining their functionality.
-Elastic bands were used to hold the load cells in place, enabling accurate stress measurement. The [HX711](https://github.com/RobTillaart/HX711)library was integrated to process data from the load cells, with system initialization taring the scale to account for the elastic bands' force.
+Elastic bands were used to hold the load cells in place, enabling accurate stress measurement. The [HX711](https://github.com/RobTillaart/HX711) repository was integrated to process data from the load cells, with system initialization taring the scale to account for the elastic bands' force.
 
 Electronics and Integration
 
