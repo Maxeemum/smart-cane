@@ -15,10 +15,11 @@ Elastic bands were used to hold the load cells in place, enabling accurate stres
 Electronics and Integration
 
 The load cells were connected using a Wheatstone bridge circuit and linked to an Arduino. To power the system, a battery pack was added. However, a need was identified for a memory module to store data for long-term tracking.
-While recovery progressed to the point where a cane was no longer required, the project highlighted significant potential for further refinement and development.
+At this point my recovery progressed to the point where I could walk fine on my own so I shelved the project, but had it been completed, I would assume the following image is how the data would look.
+
+![Smart Cane](./photos/recoveryplot.png)
 
 Future Development
-
 Planned improvements for the next iteration include:
 Memory Storage: Incorporating a module to save recovery data over time.
 Enhanced Design: Developing a more ergonomic and durable cane.
